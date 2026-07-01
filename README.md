@@ -97,7 +97,7 @@ When I'm not working, you'll probably find me learning Python, exploring new GIS
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/joão-victor-freitas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/biojoaofreitas/)
 
 📧 **[j.victorfreitas012@gmail.com](mailto:j.victorfreitas012@gmail.com)**
 
