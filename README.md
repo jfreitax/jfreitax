@@ -1,35 +1,5 @@
 # 👋 Hi there, I'm Freitas!
 
-```python
-class JoaoVictor:
-
-    def __init__(self):
-        self.role = "Environmental Consultant 🌎"
-        self.location = "Rio de Janeiro, Brazil 🇧🇷"
-        self.education = [
-            "B.Sc. Biological Sciences",
-            "Postgraduate in GIS & Remote Sensing",
-            "Postgraduate in Contaminated Site Management (ongoing)"
-        ]
-
-        self.interests = [
-            "Python",
-            "GIS",
-            "Remote Sensing",
-            "Environmental Licensing",
-            "Spatial Analysis",
-            "Drone Mapping",
-            "Automation"
-        ]
-
-    def current_focus(self):
-        return [
-            "Building geospatial tools with Python",
-            "Learning automation workflows",
-            "Creating environmental solutions"
-        ]
-```
-
 ---
 
 ## 🌱 About Me
