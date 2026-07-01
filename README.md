@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm João Victor!
+# 👋 Hi there, I'm Freitas!
 
 ```python
 class JoaoVictor:
